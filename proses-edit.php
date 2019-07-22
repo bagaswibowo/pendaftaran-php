@@ -15,7 +15,7 @@ if(isset($_POST['simpan'])){
 	
 	// buat query update
 	$sql = "UPDATE calon_siswa SET nama='$nama', alamat='$alamat', jenis_kelamin='$jk', agama='$agama', sekolah_asal='$sekolah' WHERE id=$id";
-	$query = mysqli_query($db, $sql);
+	$query = mysqli_query($conn, $sql);
 	
 	// apakah query update berhasil?
 	if( $query ) {

@@ -34,7 +34,7 @@
 		
 		<?php
 		$sql = "SELECT * FROM calon_siswa";
-		$query = mysqli_query($db, $sql);
+		$query = mysqli_query($conn, $sql);
 		
 		while($siswa = mysqli_fetch_array($query)){
 			echo "<tr>";
