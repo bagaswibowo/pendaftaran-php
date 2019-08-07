@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Pendaftaran Siswa Baru | SMK Coding</title>
+	<title>Pendaftaran Siswa Baru | SMK YPPP Wonomulyo</title>
 </head>
 
 <body>
