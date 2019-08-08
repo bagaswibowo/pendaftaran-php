@@ -7,7 +7,7 @@
 <body>
 	<header>
 		<h3>Pendaftaran Siswa Baru</h3>
-		<h1>SMK YPPP Wonomulyo<</h1>
+		<h1>SMK YPPP Wonomulyo</h1>
 	</header>
 	
 	<h4>Menu</h4>
